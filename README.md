@@ -13,7 +13,7 @@
 ### Yargs
     - Yargs es una dependecìa para ingresar valores por medio linea de comandos
 
-```` npm i yargs --save ```
+``` npm i yargs --save ```
 
 ### Nodemon 
 
