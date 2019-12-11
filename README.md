@@ -4,13 +4,14 @@
 ``` node init ```
 
 
-## Este se ejecuta por si se llega a clonar el reporsitorio
+## Este comando se ejecuta por si se llega a clonar el reporsitorio
 
 ``` npm installl ```
 
 ## Paquetes que se usaron para el desarrollo de la aplicaciòn
 
 ### Yargs
+
     - Yargs es una dependecìa para ingresar valores por medio linea de comandos
 
 ``` npm i yargs --save ```
