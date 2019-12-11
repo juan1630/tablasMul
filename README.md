@@ -1,10 +1,13 @@
 
 ## Iniciamos el proyecto
+- Iniciamos el proyecto de node 
 
 ``` node init ```
 
 
 ## Este comando se ejecuta por si se llega a clonar el reporsitorio
+
+- Descarga los paquete que se necesitan para el funcionamineto
 
 ``` npm installl ```
 
@@ -13,12 +16,13 @@
 ### Yargs
 
     - Yargs es una dependecìa para ingresar valores por medio linea de comandos
-
+    - Descargamos yargs desde npm
+    
 ``` npm i yargs --save ```
 
 ### Nodemon 
 
-    - Se instala como dependencìa de desarrollo 
+    - Se instala nodemon como dependencìa de desarrollo 
 
 ``` npm install --save-dev nodemon ```
 
